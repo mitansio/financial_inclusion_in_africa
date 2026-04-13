@@ -26,24 +26,24 @@ People with higher education and formal jobs are more likely to have bank accoun
 
 
 ## 4. Age and Household Insights
-Age distribution is skewed toward younger and middle-aged groups.
-Household size is also skewed, with most households being small to medium-sized.
-Age shows a clear pattern: financial inclusion increases with age until middle age, then slightly decreases in older age groups.
-Household size does not show a strong or consistent relationship with bank account ownership.
+* Age distribution is skewed toward younger and middle-aged groups.
+* Household size is also skewed, with most households being small to medium-sized.
+* Age shows a clear pattern: financial inclusion increases with age until middle age, then slightly decreases in older age groups.
+* Household size does not show a strong or consistent relationship with bank account ownership.
 
 
 ## 5. Country and Location Insights
-Financial inclusion varies significantly by country.
-Kenya shows the highest level of bank account ownership, while Uganda shows the lowest.
-Urban populations are more financially included than rural populations overall.
-However, this urban advantage is not consistent across all countries, showing that country context matters.
+* Financial inclusion varies significantly by country.
+* Kenya shows the highest level of bank account ownership, while Uganda shows the lowest.
+* Urban populations are more financially included than rural populations overall.
+* However, this urban advantage is not consistent across all countries, showing that country context matters.
 
 
 ## 6. Gender and Social Structure Insights
-Males are more likely to have bank accounts than females across all age groups.
-The gender gap becomes larger in middle age.
-Household heads are more financially included than other family members.
-Married individuals tend to have higher financial inclusion than widowed or single individuals.
+* Males are more likely to have bank accounts than females across all age groups.
+* The gender gap becomes larger in middle age.
+* Household heads are more financially included than other family members.
+* Married individuals tend to have higher financial inclusion than widowed or single individuals.
 
 
 ## 7. Technology and Access Insights
