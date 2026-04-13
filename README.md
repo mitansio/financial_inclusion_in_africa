@@ -65,10 +65,14 @@ Use of ensemble stacking models
 Better handling of class imbalance (SMOTE, advanced sampling)
 Deployment as a prediction API or dashboard
 ### Project Structure
-├── data/
+├── data
+
 ├── notebooks/
+
 ├── models/
+
 ├── README.md
+
 └── Bank_Account_Insights_Report.docx
 📌 Conclusion
 
